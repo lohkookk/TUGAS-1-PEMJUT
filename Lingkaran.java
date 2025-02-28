@@ -7,5 +7,9 @@ public class Lingkaran {
 
     public double hitungLuas() {
         return Math.PI * jariJari * jariJari;
+    }  
+
+    public double hitungKeliling() {
+        return 2 * Math.PI * jariJari;
     }
 }

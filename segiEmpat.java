@@ -1,9 +1,15 @@
-public class SegiEmpat {
+
+public class segiEmpat {
     double panjang, lebar;
 
-    public SegiEmpat(double panjang, double lebar) {
+    public segiEmpat(double panjang, double lebar) {
         this.panjang = panjang;
         this.lebar = lebar;
+    }
+
+    public segiEmpat(double sisi) {
+        this.panjang = sisi;
+        this.lebar = sisi;
     }
 
     double hitungLuas() {
