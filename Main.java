@@ -4,7 +4,7 @@ public class Main {
         Scanner hehe = new Scanner(System.in);
         System.out.println();
         System.out.println("=== Program Kalkulator ===");
-        System.out.println("Bentuk yang ingin dihitung :");
+        System.out.println("Bentuk yang ingin dihitung :");      
         System.out.println("1. Lingkaran");
         System.out.println("2. Persegi Panjang");
         System.out.println("3. Persegi");

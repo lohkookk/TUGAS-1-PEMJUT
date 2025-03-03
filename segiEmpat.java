@@ -11,7 +11,7 @@ public class segiEmpat {
         this.panjang = sisi;
         this.lebar = sisi;
     }
-
+    
     double hitungLuas() {
         return panjang * lebar;
     }
